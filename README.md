@@ -1,4 +1,4 @@
-# Lista de Exercícios 1 - Fundamentos Java
+# 01 - Lista de Exercícios - Fundamentos Java
 # 6 - Nivelamento de Lógica de Programação e Orientada a Objetos
 
 ## Operações Simples com Números
@@ -58,4 +58,5 @@ Você foi encarregado de desenvolver um sistema de conversão de moedas para uma
 Receber dois parâmetros: o valor em reais (um número decimal) e a taxa de câmbio (um número decimal).
 Retornar o valor correspondente em dólares, arredondado para duas casas decimais.
 Se o valor em reais ou a taxa de câmbio forem inválidos (negativos ou zero), o sistema deve retornar 0.0.
+
 
